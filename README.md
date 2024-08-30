@@ -1,29 +1,11 @@
-# desafio
+# Desafío - Templates y rendering en Vue 
 
-This template should help get you started developing with Vue 3 in Vite.
+En este desafío validaremos nuestros conocimientos del data binding en Vue Js a través de 
+las directivas. 
+Lee todo el documento antes de comenzar el desarrollo individual, para asegurarte de tener el 
+máximo de puntaje y enfocar bien los esfuerzos. 
 
-## Recommended IDE Setup
+# Descripción 
+En este desafío tendremos que crear una aplicación Vue Js desde 0 y maquetar la siguiente 
+interfaz 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-bun install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-bun dev
-```
-
-### Compile and Minify for Production
-
-```sh
-bun build
-```
