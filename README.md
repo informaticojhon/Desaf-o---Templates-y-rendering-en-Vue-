@@ -6,6 +6,5 @@ Lee todo el documento antes de comenzar el desarrollo individual, para asegurart
 máximo de puntaje y enfocar bien los esfuerzos. 
 
 # Descripción 
-En este desafío tendremos que crear una aplicación Vue Js desde 0 y maquetar la siguiente 
-interfaz 
+En este desafío tendremos que crear una aplicación Vue Js desde 0.
 
